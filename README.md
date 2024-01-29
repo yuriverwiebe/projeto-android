@@ -17,7 +17,7 @@ Projeto criado no curso de HTML e CSS do CursoemVideo.
 <br>
 
 <p align="center">
-  <img alt="Projeto Link Para Bio" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto Android" src="" width="100%">
 </p>
 
 ## 🚀 Tecnologias
