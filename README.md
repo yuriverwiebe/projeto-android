@@ -17,7 +17,7 @@ Projeto criado no curso de HTML e CSS do CursoemVideo.
 <br>
 
 <p align="center">
-  <img alt="Projeto Android" src=".imagens/preview.png" width="100%">
+  <img alt="Projeto Android" src="imagens/preview.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
